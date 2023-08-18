@@ -2,7 +2,7 @@
 
 ---
 
-You can also download from [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+You can also download the dataset from [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### Steps Involved:
 
